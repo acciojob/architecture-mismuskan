@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.table{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	alin-items:center;
+	padding:5px;
+}
